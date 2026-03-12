@@ -10,3 +10,10 @@ Through interactive visuals and drill-down capabilities, the report enables deep
 - Geographic performance by country
 - Product category contributions
 - Customer account profitability
+## Tools Used
+
+- **Power BI** for dashboard development and data visualization
+- **Power Query** for data preparation and transformation
+- **DAX (Data Analysis Expressions)** for calculated measures and time-intelligence analysis
+- **Data Modeling** to connect fact and dimension tables
+- **Interactive Visual Design** for slicers, drill-downs, and dynamic metric switching
