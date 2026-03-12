@@ -1,23 +1,12 @@
 # Power BI Plant Performance Dashboard
 
-Interactive Power BI dashboard analyzing **Sales**, **Quantity**, and **Gross Profit** performance through year-over-year comparison.
+This project presents an interactive Power BI dashboard designed to analyze business performance across **Sales, Quantity, and Gross Profit** metrics.
 
-## Project Files
+The dashboard compares **Year-to-Date (YTD)** performance against **Previous Year-to-Date (PYTD)** to identify performance trends, monthly drivers of change, and key contributors to profit gains or losses.
 
-- `images/` → dashboard screenshots and drill-down GIF
-- `dataset/` → project dataset
-- `.pbix` file → Power BI dashboard file
+Through interactive visuals and drill-down capabilities, the report enables deeper analysis across:
 
-## Preview
-
-### Drill-Down Analysis
-![Drilldown GIF](images/Drilldown.gif)
-
-### 2024 Gross Profit Dashboard
-![2024 Gross Profit](images/2024_GP.png)
-
-### 2024 Sales Dashboard
-![2024 Sales](images/2024_Sales.png)
-
-### 2024 Quantity Dashboard
-![2024 Quantity](images/2024_Quantity.png)
+- Monthly performance trends
+- Geographic performance by country
+- Product category contributions
+- Customer account profitability
