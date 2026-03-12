@@ -1,5 +1,5 @@
 # Power BI Plant Performance Dashboard
-
+Power BI dashboard analyzing **Sales, Quantity, and Gross Profit performance using YTD vs PYTD analysis with interactive drill-down capabilities.**
 This project presents an interactive Power BI dashboard designed to analyze business performance across **Sales, Quantity, and Gross Profit** metrics.
 
 The dashboard compares **Year-to-Date (YTD)** performance against **Previous Year-to-Date (PYTD)** to identify performance trends, monthly drivers of change, and key contributors to profit gains or losses.
