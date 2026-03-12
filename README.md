@@ -139,7 +139,7 @@ Analysis of the treemap reveals that **Canada contributed the largest share of t
 
 Drill-down analysis reveals that the decline was largely driven by **Landscaping products**.
 
-![Landscape Contribution](images/2024_GP DD Landscape.png)
+![Landscape Contribution](images/2024_GP_DD_Landscape.png)
 
 ---
 
